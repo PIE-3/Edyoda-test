@@ -1,0 +1,63 @@
+.vector-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 58.67px;
+  height: 58.63px;
+}
+.live1 {
+  position: absolute;
+  top: 25.29px;
+  left: 9.37px;
+  letter-spacing: 0.03em;
+  line-height: 100%;
+  font-weight: 800;
+}
+.vector-container {
+  position: relative;
+  width: 58.67px;
+  height: 58.63px;
+}
+.icon5 {
+  width: 68px;
+  height: 68px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.exclusive1 {
+  font-weight: 600;
+}
+.webinar-access1 {
+  color: var(--color-white);
+}
+.text32 {
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 100%;
+}
+.pointer-31,
+.text-container10 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-dodgerblue);
+  font-family: var(--font-roboto);
+}
+.pointer-31 {
+  align-self: stretch;
+  height: 64px;
+  justify-content: flex-start;
+  gap: var(--gap-45xl);
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-nunito);
+}

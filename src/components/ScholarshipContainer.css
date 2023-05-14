@@ -1,0 +1,50 @@
+.group-icon {
+  position: relative;
+  width: 61.95px;
+  height: 44.81px;
+}
+.icon6 {
+  width: 68px;
+  height: 68px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-lg) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.span4 {
+  font-weight: 600;
+  color: var(--color-dodgerblue);
+}
+.scholarship-worth-94500-container1 {
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 100%;
+}
+.text33 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.pointer-41,
+.text-container11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pointer-41 {
+  align-self: stretch;
+  height: 64px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-45xl);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
